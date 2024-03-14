@@ -1,5 +1,3 @@
 # Myeonghoon
 
-2024sus 1학기 오픈소스
-작성일 : 2024. 03. 14.
-작성자 : 명훈
+Jeju National University, Korea AI
